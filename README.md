@@ -1,18 +1,18 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=MedSystems&label=Profile%20views&color=blue&style=flat" alt="MedSystems">
+<img align ="right" src="https://komarev.com/ghpvc/?username=Varmaziar5789&label=Profile%20views&color=blue&style=flat" alt="Varmaziar5789">
 <!-- <h1 align="left">Hi there 👋</h1> -->
 
 ## Stats
 
-<a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedSystems&theme=dark">
-    <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedSystems&theme=dark" height="160">
+<a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varmaziar5789&theme=dark">
+    <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varmaziar5789&theme=dark" height="160">
 </a>
 
-<a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedSystems&theme=dark">
-    <img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedSystems&theme=dark" height="160">
+<a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varmaziar5789&theme=dark">
+    <img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varmaziar5789&theme=dark" height="160">
 </a>
 
-<a href="http://www.github.com/MedSystems"><img src="https://github-readme-stats.vercel.app/api?username=MedSystems&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MedSystems's GitHub Stats" height="160"/></a>
-<!--<a href="http://www.github.com/MedSystems"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedSystems&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MedSystems's Top Langs" height="160"/></a>
+<a href="http://www.github.com/Varmaziar5789"><img src="https://github-readme-stats.vercel.app/api?username=Varmaziar5789&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Varmaziar5789's GitHub Stats" height="160"/></a>
+<!--<a href="http://www.github.com/Varmaziar5789"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varmaziar5789&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Varmaziar5789's Top Langs" height="160"/></a>
 -->
 
 <!--
